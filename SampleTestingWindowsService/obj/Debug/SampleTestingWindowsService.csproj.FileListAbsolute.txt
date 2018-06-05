@@ -1,0 +1,11 @@
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.exe.config
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.exe
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.pdb
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\Autofac.dll
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\Autofac.xml
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\obj\Debug\SampleTestingWindowsService.ProjectInstaller.resources
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\obj\Debug\SampleTestingWindowsService.csproj.GenerateResource.cache
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\obj\Debug\SampleTestingWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\obj\Debug\SampleTestingWindowsService.csproj.CopyComplete
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\obj\Debug\SampleTestingWindowsService.exe
+C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\obj\Debug\SampleTestingWindowsService.pdb

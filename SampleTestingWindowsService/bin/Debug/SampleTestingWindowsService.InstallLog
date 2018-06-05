@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.InstallLog
+   assemblypath = C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.exe
+Installing service Sample Testing Window Service...
+Service Sample Testing Window Service has been successfully installed.
+Creating EventLog source Sample Testing Window Service in log Application...
+Committing assembly 'C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.InstallLog
+   assemblypath = C:\Users\imoshika\source\repos\SampleTestingWindowsService\SampleTestingWindowsService\bin\Debug\SampleTestingWindowsService.exe
